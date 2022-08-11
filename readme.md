@@ -15,3 +15,6 @@ background-color: #fed7aa;
 
 font-family: 'Roboto', sans-serif;
 font-family: 'Roboto Serif', serif;
+
+
+Site para gerar o QR Code: https://br.qr-code-generator.com/
